@@ -1,0 +1,28 @@
+.contenedorTextoFiltrar {
+  background: #f8ca76;
+  border-radius: 10px;
+  text-align: center;
+
+  width: 402px;
+  height: 54px;
+
+  padding-block-end: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.txtHasta {
+  font-family: "Comfortaa";
+  font-style: normal;
+  padding-top: 10px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 54px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}

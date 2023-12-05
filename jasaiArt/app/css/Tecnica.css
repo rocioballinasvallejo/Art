@@ -1,0 +1,44 @@
+.row-tecnica {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.txt-tecnica {
+  flex: 100%;
+  background-color: #000;
+  padding: 20px;
+}
+
+.txt-tecnica2 {
+  font-family: "Comfortaa";
+  font-style: normal;
+  color: #f8ca76;
+  justify-content: space-between;
+  text-align: left;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.tecnica1 {
+  flex: 25%;
+  background-color: #000000;
+  padding: 20px;
+}
+
+.tecnica2 {
+  flex: 25%;
+  background-color: #000;
+  padding: 20px;
+}
+
+.tecnica3 {
+  flex: 25%;
+  background-color: #000;
+  padding: 20px;
+}
+
+.tecnica4 {
+  flex: 25%;
+  background-color: #000;
+  padding: 20px;
+}

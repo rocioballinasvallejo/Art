@@ -1,0 +1,148 @@
+.containercardrow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 25px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  
+}
+
+.cardFiltrar {
+  display: inline-block;
+  background: #f2f1ec;
+  box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  width: 330px;
+  height: 500px;
+  margin: 0 10px 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.cardsuperior {
+  display: flex;
+  justify-content: space-around;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+.perfilCard {
+  width: 55px;
+  height: 70px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.favorito {
+  width: 35.87px;
+  height: 40px;
+}
+
+.precioCard {
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 19px;
+  color: #000000;
+  margin-top: 24px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.bottonFavoritos {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.TituloCard {
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+
+  color: #0651a2;
+  margin-left: 9px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.NombrePintorCard {
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 19px;
+  margin-left: 9px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.btnComprarCard {
+  width: 95%;
+  height: 10%;
+
+  background: #018045;
+  border-radius: 5px;
+
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 19px;
+
+  color: #ffffff;
+
+  margin-top: 10px;
+  margin-left: 9px;
+  margin-right: 9px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.imagenCard {
+  width: 100%;
+  height: 50%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.Estrellas {
+  width: 82px;
+  height: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.containercard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.containercardrow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+@media screen and (max-width: 767px) {
+  .cardFiltrar {
+    margin: 0 5px 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+}
